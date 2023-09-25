@@ -1,0 +1,361 @@
+*{
+    margin:0; 
+    padding:0;
+    font-family:  sans-serif;
+  
+  }
+ 
+ 
+     
+   
+ 
+ nav{
+    background-image: url(blue_bg.png) ;
+     display: flex;
+      width: 100%;
+       align-items: center;
+        position: relative;
+       justify-content: space-between;  
+       padding: 40px;     
+   }
+
+
+   
+      
+   
+
+
+ .kber{ position: relative;
+    left: 85px;
+    top: 10px;
+ }
+
+ .logo:hover{
+ }
+  
+   
+ 
+ 
+ nav a{
+    position: relative;
+     left: 100px;
+     bottom: 45px;
+      text-decoration:none;
+      justify-content: space-around;
+      color: rgb(56, 52, 52);
+      font-size: x-small;
+      padding: 5px;
+ 
+     }
+     nav a:hover{
+         color: brown;
+         text-transform: calc(1.1);
+         text-decoration: underline;
+     }
+
+    
+     a:hover{
+        font-size:medium;
+     }
+         
+    .a{
+     position: relative;
+     left: 660px;
+     text-decoration: darkgray;
+     bottom: 10px;
+     
+    }
+    
+   
+     
+ 
+ .first{ 
+    background-image: url(jj.png);
+      bottom: 400px;
+     width: 100%;
+     min-height: 100px;
+     background-repeat: no-repeat;
+     height: auto;
+     background-size: 100%;
+
+ }
+       
+     
+ .h{
+    padding-left: 105px;
+    padding-top: 80px;
+   
+}
+
+
+
+   
+ .back{
+    padding-right: 230px;
+
+ }
+
+
+ 
+ 
+ .img{
+      width: 400px;
+     position: relative;
+      left: 330px;
+      top: 40px;
+    }
+ .shab{
+ 
+     position: absolute;
+     left: 270px;
+     top: 220px;
+
+         
+ }
+  .gamed{
+     display: flex;
+     position:relative;
+     bottom: 250px;
+     left: 350px;
+ 
+  }
+ 
+  
+  
+ .moga{
+     display: flex;
+     position:relative;
+      bottom: 340px;
+      right: 120px;
+ }
+ 
+ 
+ .agla{
+     position: relative;
+     bottom: 340px;
+     left: 140px;
+     transition-delay: 1s;
+ 
+
+ }
+      
+
+    
+ 
+   .nokat{
+     position: relative;
+     bottom:500px ;
+     left: 230px;
+   }
+     
+   .dayra{
+ 
+     position: relative;
+     bottom: 700px;
+     left: 440px;
+ }
+
+
+   
+ 
+ .alama{
+     position: relative;
+     bottom: 690px;
+     left: 650px;
+ }
+ 
+ .halazon{
+     position: relative;
+     bottom: 780px;
+     left: 180px;
+     width: 150px;
+ 
+ }
+   
+    
+ 
+ 
+ .kod{
+     
+     position: relative;
+     bottom: 80px;
+     left: 48px;
+     color:aliceblue ;
+     font-size: medium;
+     font-weight: 200;
+     
+ }
+ 
+ .kodA{
+ 
+     position: relative;
+     bottom: 115px;
+     left: 44px;
+     color: aliceblue;
+ }
+ 
+ 
+ h5{
+     padding-bottom: 10px;
+     position:relative;
+     font-size: medium;
+     align-items: center;
+     left: 30px;
+ }
+ 
+
+ h6{
+    padding-bottom: 5px;
+    color: darkgray;
+    right: 10px;
+ }
+
+
+
+
+ .third{
+     position: relative;
+ 
+     bottom: 280px;
+ }
+     
+ 
+ .thlatha{
+     position: relative;
+     bottom: 420px;
+     left: 260px;
+ 
+ }
+ 
+ .nos{
+     position: relative;
+     bottom: 580px;
+     left: 420px;
+ 
+ }
+ strong{
+     color: rgb(170,114,182);
+     font: bold;
+ }
+ 
+ .akher{
+     position: relative;
+     bottom: 750px;
+     left: 720px;
+ 
+ }
+  
+
+ .fourth{
+    position: relative;
+    bottom: 950px;
+    width: 100%;
+    height: 60px; 
+ }
+ 
+ .ganb{
+     position: relative;
+ 
+     bottom: 600px;
+     left: 470px ;
+ }
+ 
+
+ .soghier{
+    position: relative;
+    bottom: 300px;
+    left: 240px;
+    border: 5;
+ }
+
+ .play{
+    position: relative;
+    bottom: 22px;
+    left: 40px;
+ }
+ .store{
+    position: relative;
+    left: 15px;
+    top: 28px;
+ }
+ .soghier2{
+    position: relative;
+    bottom: 380px;
+    left: 125px;
+ }
+
+
+
+ a{
+
+    position: relative;
+    bottom: 680px;
+    left: 150px;
+    font-size: x-small;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 6px;
+    
+ }
+
+
+
+
+
+ .icon{
+    position: relative;
+    bottom: 680px;
+    left: 160px;
+    font-weight: 100;
+    color: aliceblue;
+ }
+
+
+ 
+
+ .insta{
+    padding: 5px;
+    font-size: small;
+ }
+ 
+ .wats{
+    padding: 5px;
+    font-size: small;
+
+ }
+
+ .book{
+    padding: 5px;
+    font-size: small;
+
+ }
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+@media only screen and {max-width :1200px} {
+
+
+   
+}
+
+
+@media only screen and {max-width :992px} {
+  
+font-size: 40px;
+
+.shab {
+   left: 70px;
+}
+
+}

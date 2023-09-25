@@ -1,0 +1,242 @@
+  *{
+   margin:0; 
+   padding:0;
+   font-family:  sans-serif;
+ 
+ }
+
+  body{
+
+    
+  }
+
+nav{
+
+    background-image: url(blue_bg.png) ;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    padding: 20px;
+    justify-content: space-between;
+  }
+
+.kber{
+    position: relative;
+    left: 75px;
+}
+
+
+nav a{
+    left: 80px;
+    bottom: 45px;
+     text-decoration:none;
+     justify-content: space-around;
+     color: rgb(56, 52, 52);
+     font-size: x-small;
+     padding: 5px;
+
+    }
+    nav a:hover{
+        color: brown;
+        text-transform: calc(1.1);
+        text-decoration: underline;
+
+    }
+        
+   .a{
+    position: relative;
+    left: 570px;
+    text-decoration: darkgray;
+   }
+   
+   
+    
+
+.first{ 
+    background-image: url(blue_bg.png);
+    width: 100%;
+    height: auto;
+    min-height: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+      
+    
+.h{
+    padding-left: 105px;
+    padding-top: 80px;
+}
+  
+
+
+.img{
+    position: relative;
+     left: 250px;
+     top: 20px;
+   }
+.shab{
+
+    position: absolute;
+    right: 560px;
+    top: 200px;
+        
+}
+ .gamed{
+    display: flex;
+    position:relative;
+    bottom: 200px;
+    left: 400px;
+
+ }
+
+ .back{
+    
+
+
+    right: 200px;
+ }
+.moga{
+    display: flex;
+    position:relative;
+   bottom:100px ;
+   right: 200px;
+}
+
+
+.agla{
+    position: relative;
+    bottom: 100px;
+    left: 140px;
+}
+
+  .nokat{
+    position: relative;
+    bottom:250px ;
+    left: 200px;
+  }
+    
+  .dayra{
+
+    position: relative;
+    bottom: 450px;
+    left: 400px;
+}
+
+.alama{
+    position: relative;
+    bottom: 460px;
+    left: 650px;
+}
+
+.halazon{
+    position: relative;
+    bottom: 520px;
+    left: 200px;
+
+}
+
+.kod{
+    
+    position: relative;
+    bottom: 80px;
+    left: 50px;
+    color:aliceblue ;
+    font-size: medium;
+    font-weight: 200;
+    
+}
+
+.kodA{
+
+    position: relative;
+    bottom: 110px;
+    left: 44px;
+    color: aliceblue;
+}
+
+
+h5{
+    padding-bottom: 10px;
+    position:relative;
+    left: 30px;
+    font-size: medium;
+}
+
+.third{
+    position: relative;
+
+    bottom: 70px;
+}
+    
+
+.thlatha{
+    position: relative;
+    bottom: 420px;
+    left: 260px;
+
+}
+
+.nos{
+    position: relative;
+    bottom: 580px;
+    left: 420px;
+
+}
+
+
+
+   
+    
+
+
+
+strong{
+    color: rgba(201, 75, 169, 0.63);
+    font: bold;
+}
+
+.akher{
+    position: relative;
+    bottom: 750px;
+    left: 720px;
+
+}
+
+
+.fourth{
+
+    position: relative;
+    bottom: 700px;
+    height: 100px;
+}
+
+.ganb{
+    position: relative;
+
+    bottom: 400px;
+    left: 390px;
+    height: 100px;
+
+
+}
+.swer{
+    position: relative;
+    bottom: 400px;
+    left: 260px;
+    height: 100px;
+}
+.soghier{
+    height: 50px;
+    position: relative;
+    bottom: 490px;
+    left: 245px;
+    height: 100px;
+}
+.kelma{
+    position: relative;
+    bottom: 585px;
+    left: 265px;
+    height: 100px;
+} 
+
